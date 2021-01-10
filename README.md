@@ -6,7 +6,7 @@ I am a *student* and *research assistant* at the **Faculty of Information Techno
 
 I like to learn new things and share my knowledge with the community.
 
-Here is a link to my **Linkeding**: https://www.linkedin.com/in/dominik-harmim.
+Here is a link to my **Linkedin**: https://www.linkedin.com/in/dominik-harmim.
 
 You may contact me using one of the following addresses:
 - harmim6@gmail.com
@@ -18,4 +18,4 @@ You may contact me using one of the following addresses:
 
 [![Harmim's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harmim&langs_count=10&layout=compact&theme=monokai)](https://github.com/harmim)
 
-*NOTE: **Most Used Languages** do not indicate my skill level or anything like that, it is a GitHub metric of which languages have the most code on GitHub.*
+*NOTE: **Most Used Languages** do not indicate my skill level or anything like that. It is a GitHub metric of which languages have the most code on my GitHub repositories.*
