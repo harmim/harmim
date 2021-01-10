@@ -14,4 +14,4 @@ You may contact me using one of the following addresses:
 - Dominik.Harmim@vut.cz
 - dominik.harmim@peckadesign.cz
 
-[![Harmim's GitHub stats](https://github-readme-stats.vercel.app/api?username=harmim&count_private=true)](https://github.com/harmim)
+[![Harmim's GitHub stats](https://github-readme-stats.vercel.app/api?username=harmim&count_private=true&hide=contribsshow_icons=true&theme=monokai)](https://github.com/harmim)
