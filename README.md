@@ -19,3 +19,4 @@ You may contact me using one of the following addresses:
 [![Harmim's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harmim&langs_count=10&layout=compact&theme=monokai)](https://github.com/harmim)
 
 *NOTE: **Most Used Languages** do not indicate my skill level or anything like that. It is a GitHub metric of which languages have the most code on my GitHub repositories.*
+
