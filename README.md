@@ -10,12 +10,13 @@ Here is a link to my **Linkedin**: https://www.linkedin.com/in/dominik-harmim.
 
 You may contact me using one of the following addresses:
 - **harmim6@gmail.com**
-- xharmi00@stud.fit.vutbr.cz
+- dominik@harmim.cz
 - iharmim@fit.vut.cz
+- xharmi00@stud.fit.vutbr.cz
 - xharmi00@vut.cz
 - Dominik.Harmim@vut.cz
 
-[![Harmim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmim&count_private=true&hide=contribs&show_icons=true&theme=monokai&include_all_commits=true&disable_animations=true)](https://github.com/harmim)
+[![Harmim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmim&count_private=true&hide=contribs&show_icons=true&theme=monokai&include_all_commits=true&disable_animations=true&rank_icon=github)](https://github.com/harmim)
 
 [![Harmim's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harmim&langs_count=10&layout=compact&theme=monokai)](https://github.com/harmim)
 
