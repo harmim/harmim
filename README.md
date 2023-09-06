@@ -2,7 +2,7 @@
 
 My name is **Dominik Harmim**.
 
-I am a *Software Engineer*.
+I am a *Software Engineer* 🖥.
 
 I like to learn new things and share my knowledge with the community.
 
