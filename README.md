@@ -11,6 +11,7 @@ Here is a link to my **Linkedin**: https://www.linkedin.com/in/dominik-harmim.
 You may contact me using one of the following addresses:
 - **harmim6@gmail.com**
 - dominik@harmim.cz
+- dominik.harmim@oracle.com
 
 [![Harmim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmim&count_private=true&hide=contribs&show_icons=true&theme=monokai&include_all_commits=true&disable_animations=true&rank_icon=github)](https://github.com/harmim)
 
