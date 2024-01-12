@@ -2,7 +2,7 @@
 
 My name is **Dominik Harmim**.
 
-I am a *Senior Software Engineer*, *AI/ML* 🖥 at *Oracle NetSuite*.
+I am a *Senior Software Engineer*, *AI/ML* 🖥 at *Oracle NetSuite*, based in *Brno*, *Czech Republic*.
 
 I like to learn new things and share my knowledge with the community.
 
