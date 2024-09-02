@@ -1,10 +1,8 @@
 # Hello 👋
 
-My name is **Dominik Harmim**.
+I am *Principal Software Engineer* 🖥 at *Oracle NetSuite AI*, based in Brno, Czech Republic.
 
-I am a *Senior Software Engineer*, *AI/ML* 🖥 at *Oracle NetSuite*, based in *Brno*, *Czech Republic*.
-
-I like to learn new things and share my knowledge with the community.
+I strive to bring AI solutions closer to customers so they can benefit from them and have a chance to do their jobs more efficiently.
 
 Here is a link to my **Linkedin**: https://www.linkedin.com/in/dominik-harmim.
 
