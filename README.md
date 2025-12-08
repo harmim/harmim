@@ -1,6 +1,6 @@
 # Hello 👋
 
-I am *Principal Software Engineer* 🖥 at *Oracle NetSuite AI*, based in Brno, Czech Republic.
+I am *Principal AI Engineer — Team Lead* 🖥 at *Oracle NetSuite AI*, based in Brno, Czech Republic.
 
 I strive to bring AI solutions closer to customers so they can benefit from them and have a chance to do their jobs more efficiently.
 
